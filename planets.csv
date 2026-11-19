@@ -1,0 +1,9 @@
+name,order_from_sun,type
+Mercury,1,terrestrial
+Venus,2,terrestrial
+Earth,3,terrestrial
+Mars,4,terrestrial
+Jupiter,5,gas giant
+Saturn,6,gas giant
+Uranus,7,ice giant
+Neptune,8,ice giant
